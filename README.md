@@ -1,4 +1,4 @@
-Weronika Obcowska
+Weronika Obcowska, PIPR Projekt, 2019Z
 # neutron-game
 
 
